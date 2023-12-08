@@ -3,4 +3,4 @@ Code for the paper: A Multi-Modal Transfer Learning and Dual Stream CNN-Transfor
 
 The code is coming soon
 
-The dataset we use:https://ninapro.hevs.ch/instructions/DB2.html
+The dataset we use: https://ninapro.hevs.ch/instructions/DB2.html
